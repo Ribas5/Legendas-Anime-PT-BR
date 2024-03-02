@@ -1,0 +1,1085 @@
+﻿1
+00:01:31,110 --> 00:01:36,060
+Para se opor ao D-Reaper, o ser que pretende apagar a existência do Mundo Digital,
+
+2
+00:01:36,060 --> 00:01:38,990
+Culumon liberou o brilho da evolução.
+
+3
+00:01:39,950 --> 00:01:45,210
+Lee Jan'yu e seus amigos construíram o Arc, uma arca com ajuda de colaboradores do mundo inteiro.
+
+4
+00:01:45,210 --> 00:01:48,920
+Takato e seus amigos estavam prestes a embarcar nele e voltar para o Mundo Real.
+
+5
+00:01:48,920 --> 00:01:50,130
+No entanto...
+
+6
+00:01:56,430 --> 00:01:57,720
+É o Arc!
+
+7
+00:01:58,100 --> 00:02:01,060
+Mas a Ruki e a Renamon ainda não chegaram!
+
+8
+00:02:17,030 --> 00:02:17,820
+Vento...
+
+9
+00:02:28,210 --> 00:02:29,960
+Entre, Shiuchon.
+
+10
+00:02:30,630 --> 00:02:32,170
+Rápido, pessoal, embarquem logo!
+
+11
+00:02:32,170 --> 00:02:35,380
+Hirokazu, me ajude a levar a Katou.
+
+12
+00:02:35,380 --> 00:02:36,260
+Beleza!
+
+13
+00:02:36,260 --> 00:02:37,840
+Guardromon, ajude a gente!
+
+14
+00:02:37,840 --> 00:02:39,510
+Ok.
+
+15
+00:02:46,270 --> 00:02:49,110
+Takato, rápido!
+
+16
+00:02:49,110 --> 00:02:50,770
+Fique aí, Guilmon!
+
+17
+00:02:52,480 --> 00:02:54,650
+Você prometeu ao meu pai.
+
+18
+00:02:54,650 --> 00:02:56,740
+Você prometeu que voltar e
+comer o Pão Guilmon!
+
+19
+00:02:57,080 --> 00:02:58,310
+Tá.
+
+20
+00:02:59,570 --> 00:03:01,700
+Ruki... O que faço?
+
+21
+00:03:06,960 --> 00:03:08,040
+Realmente...
+
+22
+00:03:08,790 --> 00:03:10,170
+...somos duas idiotas.
+
+23
+00:03:10,630 --> 00:03:13,380
+Ruki, desse jeito não vamos
+conseguir chegar a tempo!
+
+24
+00:03:13,380 --> 00:03:14,630
+Me dê força!
+
+25
+00:03:20,600 --> 00:03:22,640
+Por quê, Juri?
+
+26
+00:03:23,720 --> 00:03:26,100
+Por que você não fala nada, Juri?
+
+27
+00:03:26,100 --> 00:03:28,020
+Katou, você está bem?
+
+28
+00:03:28,020 --> 00:03:29,440
+A gente já está indo pra casa.
+
+29
+00:03:29,440 --> 00:03:31,110
+Indo pra casa, cululu!
+
+30
+00:03:32,860 --> 00:03:35,030
+Está se mexendo!
+Tá mexendo!
+
+31
+00:03:35,030 --> 00:03:35,740
+Takato!
+
+32
+00:03:38,240 --> 00:03:39,200
+Já está se mexendo?
+
+33
+00:03:39,820 --> 00:03:40,950
+E agora?!
+
+34
+00:03:40,950 --> 00:03:43,240
+Jen, acho que a gente deveria ir lá.
+
+35
+00:03:43,240 --> 00:03:44,290
+É...
+
+36
+00:03:44,290 --> 00:03:45,580
+Eu vou lá!
+
+37
+00:03:46,160 --> 00:03:47,750
+Cyberdramon!
+
+38
+00:03:52,290 --> 00:03:53,800
+Estamos contando com vocês!
+
+39
+00:03:58,470 --> 00:03:59,930
+Takato!
+
+40
+00:04:01,640 --> 00:04:02,890
+Takato!
+
+41
+00:04:02,890 --> 00:04:04,180
+Takato!
+
+42
+00:04:04,180 --> 00:04:05,060
+Takato!
+
+43
+00:04:05,060 --> 00:04:06,100
+Pare!
+
+44
+00:04:06,100 --> 00:04:10,100
+Ei, pare!
+O Takato ainda não embarcou!
+
+45
+00:04:10,100 --> 00:04:12,650
+Pare, por favor!!
+
+46
+00:04:12,650 --> 00:04:15,280
+Guilmon, a nave não vai te escutar.
+
+47
+00:04:15,280 --> 00:04:16,860
+Takato, pule pra cá, rápido!
+
+48
+00:04:18,610 --> 00:04:19,280
+Tá!
+
+49
+00:04:23,910 --> 00:04:26,290
+Beleza, o Arc está voltando!
+
+50
+00:04:28,200 --> 00:04:30,420
+Tomara que todos estejam bem...
+
+51
+00:04:31,420 --> 00:04:36,460
+Ajustando trajetória. x +0,0057; y -0,2451.
+
+52
+00:04:36,460 --> 00:04:39,270
+Farol da trajetória estável.
+Força: 75%.
+
+53
+00:04:42,550 --> 00:04:45,640
+Quem diria que conseguíriamos vir até aqui com computadores espalhados...
+
+54
+00:04:46,220 --> 00:04:49,140
+Ainda há esperança neste mundo.
+
+55
+00:04:55,270 --> 00:05:01,400
+"Muito obrigado pela ajuda. Por favor, faça os próximos cálculos."
+
+56
+00:05:02,490 --> 00:05:04,860
+Assim vamos ajudar as crianças, né?
+
+57
+00:05:04,860 --> 00:05:05,400
+É.
+
+58
+00:05:12,420 --> 00:05:13,750
+Takato!
+
+59
+00:05:13,750 --> 00:05:14,960
+Takato!
+
+60
+00:05:17,380 --> 00:05:18,920
+Takato!
+
+61
+00:05:18,920 --> 00:05:21,050
+Guilmon, você vai cair!
+
+62
+00:05:22,050 --> 00:05:23,260
+Beleza!
+
+63
+00:05:24,430 --> 00:05:25,260
+Deixe isso comigo!
+
+64
+00:05:25,260 --> 00:05:26,180
+Eu também!
+
+65
+00:05:38,400 --> 00:05:39,610
+Culumon!
+
+66
+00:05:45,450 --> 00:05:47,830
+Ah, pare!!
+
+67
+00:05:47,830 --> 00:05:50,830
+Arc, pare!!
+
+68
+00:05:55,040 --> 00:05:56,500
+P-Parou!
+
+69
+00:05:56,500 --> 00:05:59,130
+O Arc parou. Mas por quê?
+
+70
+00:06:04,590 --> 00:06:06,220
+P-Parou...
+
+71
+00:06:06,220 --> 00:06:08,010
+Takato!
+
+72
+00:06:08,010 --> 00:06:09,560
+Por quê?
+
+73
+00:06:09,560 --> 00:06:11,220
+Ei!
+
+74
+00:06:14,020 --> 00:06:15,480
+Ouvi alguma coisa...
+
+75
+00:06:15,480 --> 00:06:16,940
+Ei!
+
+76
+00:06:16,940 --> 00:06:18,270
+Takato!
+
+77
+00:06:18,270 --> 00:06:19,520
+Ruki!
+
+78
+00:06:21,070 --> 00:06:23,240
+Vamos voltar todos juntos!
+
+79
+00:06:25,450 --> 00:06:27,280
+O que está acontecendo?
+
+80
+00:06:27,280 --> 00:06:28,700
+Não sei...
+
+81
+00:06:28,700 --> 00:06:33,370
+Será que a Inteligência Artificial do Arc tomou essa decisão?
+
+82
+00:06:33,870 --> 00:06:35,830
+O programa está descontrolado?
+
+83
+00:06:37,210 --> 00:06:40,210
+Fui eu que fiz o programa I.A. do Arc!
+
+84
+00:06:40,210 --> 00:06:42,380
+Como era esse programa?
+
+85
+00:06:42,380 --> 00:06:45,220
+Era o programa núcleo dos Digimons!
+
+86
+00:06:49,390 --> 00:06:52,880
+É que eu pensei que essa fosse a única maneira de ele poder lidar...
+
+87
+00:06:52,880 --> 00:06:57,150
+...com uma situação inesperada em um mundo desconhecido.
+
+88
+00:06:57,150 --> 00:06:58,650
+Mas por quê?
+
+89
+00:06:58,650 --> 00:07:02,230
+Ele não tem como possuir a consciência ou a inteligência de um Digimon!
+
+90
+00:07:03,320 --> 00:07:04,610
+Takato!
+
+91
+00:07:20,170 --> 00:07:22,960
+Tá pensando que é uma noiva,
+pra se atrasar tanto?
+
+92
+00:07:22,960 --> 00:07:23,840
+Desculpa.
+
+93
+00:07:25,670 --> 00:07:27,050
+Esse cara...
+
+94
+00:07:27,470 --> 00:07:30,470
+Ruki, você sabe o que esse cara fez, né?
+
+95
+00:07:31,890 --> 00:07:33,010
+Sei.
+
+96
+00:07:34,520 --> 00:07:38,310
+Se você sabe e quis trazê-lo
+mesmo assim, fazer o quê.
+
+97
+00:07:40,020 --> 00:07:42,270
+Fazer o quê.
+
+98
+00:07:43,150 --> 00:07:45,190
+Não me imite!
+
+99
+00:07:51,570 --> 00:07:52,830
+Um Digivice?
+
+100
+00:07:56,870 --> 00:07:58,830
+Ah, entendi!
+
+101
+00:07:58,830 --> 00:08:02,000
+O MarineAngemon é o meu parceiro!
+
+102
+00:08:03,210 --> 00:08:07,300
+O meu parceiro é MarineAngemon, um Digimon na Fase Suprema!
+
+103
+00:08:18,180 --> 00:08:21,600
+Entendi... A Renamon foi atrás do Impmon...
+
+104
+00:08:22,060 --> 00:08:25,440
+Não problema se um filho da mãe como eu voltar?
+
+105
+00:08:25,440 --> 00:08:26,650
+Um filho da mãe como eu...
+
+106
+00:08:28,610 --> 00:08:30,530
+Deixa eu pegar nele!
+
+107
+00:08:30,530 --> 00:08:32,320
+Não!
+De jeito nenhum!
+
+108
+00:08:33,120 --> 00:08:35,160
+Um filho da mãe... como eu...
+
+109
+00:08:44,590 --> 00:08:47,130
+O Arc está andando!
+
+110
+00:08:47,760 --> 00:08:51,340
+A I.A. que tem o núcleo dos Digimons, o Arc...
+
+111
+00:08:51,590 --> 00:08:53,970
+Preparar para retornar ao Mundo Real.
+
+112
+00:08:53,970 --> 00:08:55,930
+Ajustando para entrar!
+
+113
+00:08:57,390 --> 00:08:58,560
+Vai lá!
+
+114
+00:08:58,560 --> 00:09:01,190
+Vai lá, Arc!
+Só mais um pouco!
+
+115
+00:09:01,850 --> 00:09:04,650
+Traga as crianças de volta para este mundo!
+
+116
+00:09:05,110 --> 00:09:06,400
+Está saindo da trajetória certa!
+
+117
+00:09:06,400 --> 00:09:07,860
+-114!
+
+118
+00:09:07,860 --> 00:09:09,900
+Ok!
+Deixe a trajetória comigo!
+
+119
+00:09:09,900 --> 00:09:11,200
+Alguém!
+
+120
+00:09:11,200 --> 00:09:14,620
+Avisem às famílias das crianças que o ponto de materialização mudou!
+
+121
+00:09:15,580 --> 00:09:18,120
+Agora será aqui, no Parque Central!
+
+122
+00:09:24,290 --> 00:09:28,380
+Aí, a gente teve tantos problemas!
+
+123
+00:09:28,380 --> 00:09:31,920
+Com quem você tá falando, Guilmon?
+
+124
+00:09:31,920 --> 00:09:33,300
+Com o Arc.
+
+125
+00:09:35,050 --> 00:09:36,720
+Hã? Com o Arc?
+
+126
+00:09:36,720 --> 00:09:41,600
+O Arc ouviu o desejo de Guilmon e parou.
+
+127
+00:09:41,600 --> 00:09:43,850
+Ah, que legal!
+
+128
+00:09:44,600 --> 00:09:45,560
+Arc...
+
+129
+00:09:45,860 --> 00:09:47,190
+Obrigado.
+
+130
+00:09:47,820 --> 00:09:53,280
+É... A gente vai poder voltar por causa do Arc... Voltar para o nosso mundo...
+
+131
+00:09:57,160 --> 00:09:59,830
+Katou-san, aguente só mais um pouco...
+
+132
+00:10:01,790 --> 00:10:03,830
+Juri, falta pouco.
+
+133
+00:10:05,420 --> 00:10:06,960
+Aguente firme. Tá?
+
+134
+00:10:07,790 --> 00:10:13,380
+Finalmente vou poder voltar, depois de quase um ano, graças a vocês.
+
+135
+00:10:13,380 --> 00:10:15,550
+Pense mais nos seus pais!
+
+136
+00:10:15,550 --> 00:10:16,800
+Tudo graças à vocês.
+
+137
+00:10:27,650 --> 00:10:28,690
+O que foi!?
+
+138
+00:10:30,270 --> 00:10:34,070
+Ei... Takato, o caminho de luz sumiu.
+
+139
+00:11:01,010 --> 00:11:01,930
+Essa não...
+
+140
+00:11:01,930 --> 00:11:03,890
+Ué?
+
+141
+00:11:04,560 --> 00:11:07,730
+Maninho Jen, a nave tá caindo!
+
+142
+00:11:07,730 --> 00:11:10,400
+O poder do Arc se esgotou?
+
+143
+00:11:11,150 --> 00:11:14,030
+Tá de brincadeira!
+A gente chegou tão perto...
+
+144
+00:11:14,030 --> 00:11:15,990
+Isso é sério?
+
+145
+00:11:15,990 --> 00:11:19,030
+O caminho sumiu, então o Arc não sabe mais para onde ir!
+
+146
+00:11:19,030 --> 00:11:21,280
+Você está me ouvindo, não é, Arc!?
+
+147
+00:11:22,370 --> 00:11:26,330
+Você está me ouvindo, Arc?
+Falta só mais um pouco!
+
+148
+00:11:26,330 --> 00:11:30,750
+Falta só mais um pouco pra a gente voltar para o nosso mundo!
+
+149
+00:11:30,750 --> 00:11:33,170
+Então, por favor, nos ajude!
+
+150
+00:11:33,170 --> 00:11:35,920
+Arc, você está ouvindo, não é!?
+
+151
+00:11:35,920 --> 00:11:37,090
+Arc!
+
+152
+00:11:41,720 --> 00:11:42,680
+Arc...
+
+153
+00:11:43,140 --> 00:11:45,560
+Parece que ele te ouviu, Takato...
+
+154
+00:11:45,560 --> 00:11:46,430
+É.
+
+155
+00:11:54,860 --> 00:11:57,280
+Segurem firme!
+
+156
+00:11:59,030 --> 00:12:01,780
+A parte de trás Arc está desparecendo!
+
+157
+00:12:05,450 --> 00:12:07,370
+Vamos entrar no Mundo Real!
+
+158
+00:12:12,840 --> 00:12:14,920
+Você consegue!
+
+159
+00:12:36,940 --> 00:12:38,110
+As crianças...
+
+160
+00:14:05,440 --> 00:14:06,490
+Impmon...
+
+161
+00:14:07,070 --> 00:14:10,700
+Finalmente consegui falar com o pai da Katou Juri-san...
+
+162
+00:14:10,700 --> 00:14:14,080
+Parece que eles foram para a casa dos pais da esposa dele, em Matsumoto...
+
+163
+00:14:14,080 --> 00:14:15,420
+E então?
+
+164
+00:14:15,420 --> 00:14:20,250
+Bem... Ele disse que se a filha egoísta dele quer voltar, ela que venha sozinha.
+
+165
+00:14:21,380 --> 00:14:24,380
+Mas claro, eu não acho que
+realmente pense assim.
+
+166
+00:14:31,310 --> 00:14:32,980
+Eu cuido dela!
+
+167
+00:14:35,140 --> 00:14:39,230
+Eu não posso deixar a Katou-san sozinha!
+
+168
+00:14:39,230 --> 00:14:41,230
+Mas... Você teria que ir até a
+província de Nagano...
+
+169
+00:14:43,530 --> 00:14:44,370
+Tudo bem.
+
+170
+00:14:44,370 --> 00:14:44,970
+O quê?!
+
+171
+00:14:45,200 --> 00:14:49,780
+Você não vai para um lugar que ninguém sabe onde fica.
+
+172
+00:14:50,910 --> 00:14:52,830
+É difícil ser homem, hein?
+
+173
+00:14:55,330 --> 00:15:00,000
+Preste atenção. Quando deixá-la, vá para a casa da sua tia, na cidade de Zushi, tá?
+
+174
+00:15:00,130 --> 00:15:01,670
+Prometa.
+
+175
+00:15:01,670 --> 00:15:04,130
+Tá. Obrigado.
+
+176
+00:15:06,550 --> 00:15:07,590
+Em Matsumoto, hein?
+
+177
+00:15:08,300 --> 00:15:11,720
+Todos os meios de transporte em Shinjuku estão parados...
+
+178
+00:15:16,850 --> 00:15:18,730
+O Arc...
+
+179
+00:15:30,200 --> 00:15:31,280
+Arc...
+
+180
+00:15:32,030 --> 00:15:33,200
+Obrigado.
+
+181
+00:15:33,990 --> 00:15:38,670
+E assim, os Tamers deixam o distrito de Shinjuku, que recebeu ordem de evacuação...
+
+182
+00:15:38,670 --> 00:15:42,760
+...e saem de Tóquio com seus pais.
+
+183
+00:15:52,970 --> 00:15:54,680
+Comprei marmitas!
+
+184
+00:15:54,680 --> 00:15:56,890
+Você está correndo tanto hoje, Takato!
+
+185
+00:15:56,890 --> 00:15:58,310
+É verdade.
+
+186
+00:16:13,830 --> 00:16:16,290
+C-Com licença., eu paguei as passagens!
+
+187
+00:16:16,290 --> 00:16:18,620
+O Guilmon é grande,
+então comprei passagem de adulto!
+
+188
+00:16:18,620 --> 00:16:20,830
+N-Não é isso!
+
+189
+00:16:20,830 --> 00:16:22,710
+O que é isso?
+É um Digimon, não é?
+
+190
+00:16:22,710 --> 00:16:24,420
+Os Digimons são perigosos!
+
+191
+00:16:24,420 --> 00:16:25,840
+Não!
+
+192
+00:16:25,840 --> 00:16:30,470
+O Guilmon lutou bastante para proteger a nossa cidade!
+
+193
+00:16:32,090 --> 00:16:34,600
+Aquele era um Digimon muito maior, não?
+
+194
+00:16:35,720 --> 00:16:37,980
+Mas era da mesma cor...
+
+195
+00:16:37,980 --> 00:16:42,400
+Então, aquele era o Guilmon evoluído para o Nível Perfeito!
+
+196
+00:16:42,400 --> 00:16:45,150
+Takato, Guilmon evolui!
+
+197
+00:16:45,150 --> 00:16:47,820
+Não!
+Você não pode evoluir aqui dentro!
+
+198
+00:16:47,820 --> 00:16:50,070
+Evolução! Guilmon evolui!
+
+199
+00:16:50,070 --> 00:16:51,200
+Não!
+
+200
+00:16:51,200 --> 00:16:53,950
+Eu não disse que eles são perigosos?!
+
+201
+00:16:55,790 --> 00:16:58,530
+Takato, Guilmon tá com fome.
+
+202
+00:16:58,530 --> 00:16:59,530
+O quê?!
+
+203
+00:17:06,300 --> 00:17:09,550
+Mas ele parece ser um cara tranquilo.
+
+204
+00:17:09,550 --> 00:17:12,220
+Exatamente! O Guilmon-
+
+205
+00:17:12,220 --> 00:17:13,970
+Ah, deixe pra lá.
+
+206
+00:17:13,970 --> 00:17:16,350
+Vou fazer vista grossa.
+
+207
+00:17:16,970 --> 00:17:18,020
+Obrigado.
+
+208
+00:17:18,020 --> 00:17:20,520
+Err... Você vai até Matsumoto, é?
+
+209
+00:17:20,520 --> 00:17:21,390
+Sim.
+
+210
+00:17:21,390 --> 00:17:22,600
+Boa viagem!
+
+211
+00:17:32,110 --> 00:17:37,240
+Hm... Guilmon ainda pode comer...
+
+212
+00:17:42,620 --> 00:17:46,040
+Katou-san... Você é tão boazinha.
+
+213
+00:17:47,460 --> 00:17:48,840
+Muito boazinha.
+
+214
+00:17:50,130 --> 00:17:56,350
+Eu e você, viajando juntos... Parece até um sonho. Bem...
+
+215
+00:17:57,560 --> 00:18:01,270
+Katou-san, você sempre puxava
+conversa comigo, né?
+
+216
+00:18:01,270 --> 00:18:06,610
+Eu cheguei a pensar, no fundo da minha mente, que você podia até estar...
+
+217
+00:18:06,610 --> 00:18:08,860
+...apaixonada por mim.
+
+218
+00:18:08,860 --> 00:18:13,240
+Ah!
+Mas isso era só uma hipótese, tá?!
+
+219
+00:18:13,240 --> 00:18:14,610
+Pra falar a verdade...
+
+220
+00:18:14,610 --> 00:18:15,820
+Não é isso...
+
+221
+00:18:15,820 --> 00:18:19,620
+Katou-san... Eu te...
+
+222
+00:18:21,580 --> 00:18:22,750
+Katou-san...
+
+223
+00:18:28,340 --> 00:18:30,170
+Assim eu fico triste.
+
+224
+00:18:30,670 --> 00:18:33,090
+Se você continuar desse jeito, Katou-san...
+
+225
+00:18:34,220 --> 00:18:35,630
+...eu vou ficar triste.
+
+226
+00:18:42,310 --> 00:18:43,930
+Eu estava tão feliz.
+
+227
+00:18:44,600 --> 00:18:47,480
+Você tinha se tornado uma Tamer...
+
+228
+00:18:47,480 --> 00:18:51,150
+...e veio se aventurar no Mundo Digital com a gente. Eu fiquei muito feliz.
+
+229
+00:18:51,150 --> 00:18:55,780
+Mas... Você perdeu o Leomon e ficou muito triste, por minha culpa...
+
+230
+00:18:55,780 --> 00:18:59,580
+Eu queria que você voltasse para o Mundo Real alegre como sempre.
+
+231
+00:18:59,580 --> 00:19:01,410
+Por isso, eu...
+
+232
+00:19:02,540 --> 00:19:06,410
+Ver você tão calada, desse jeito...
+
+233
+00:19:06,410 --> 00:19:10,210
+Como se tivesse... deixado de ter sentimentos...
+
+234
+00:19:10,210 --> 00:19:13,260
+...me deixa extremamente triste!
+
+235
+00:19:13,510 --> 00:19:14,590
+Eu...
+
+236
+00:19:18,590 --> 00:19:20,730
+Informação nutricional.
+
+237
+00:19:20,730 --> 00:19:24,020
+Valor calórico: 688 kcal.
+
+238
+00:19:24,350 --> 00:19:27,480
+Proteínas: 26,4 g.
+
+239
+00:19:27,480 --> 00:19:30,440
+Lipídeos: 15,7 g.
+
+240
+00:19:30,440 --> 00:19:32,650
+Carboidratos: 102-
+
+241
+00:19:31,070 --> 00:19:32,650
+Katou-san...
+
+242
+00:19:53,210 --> 00:19:54,500
+Ah... B-Boa noite!
+
+243
+00:19:54,500 --> 00:19:55,880
+Err... Eu...
+
+244
+00:19:55,880 --> 00:19:56,840
+Vem cá!
+
+245
+00:19:58,590 --> 00:20:01,140
+Obrigado por cuidar da Juri.
+
+246
+00:20:01,890 --> 00:20:03,140
+Com licença...
+
+247
+00:20:16,190 --> 00:20:18,650
+-Notícias de emergência-
+Fenômeno anormal no centro de Shinjuku!
+
+248
+00:20:26,740 --> 00:20:29,080
+Higuchi
+
+249
+00:20:55,060 --> 00:20:59,020
+-Notícias de emergência-
+Fenômeno anormal no centro de Shinjuku! Causa desconhecida!!
+
+250
+00:20:55,860 --> 00:20:57,740
+É-É mentira...
+
+251
+00:20:59,200 --> 00:21:01,200
+Isso só...
+
+252
+00:21:01,200 --> 00:21:03,150
+O que foi, Takato?
+
+253
+00:21:03,150 --> 00:21:07,820
+-Notícias de emergência-
+Fenômeno anormal no centro de Shinjuku! Causa desconhecida!!
+
+254
+00:21:03,970 --> 00:21:05,820
+Isso só pode ser mentira!
+
+255
+00:22:37,000 --> 00:22:39,370
+Quem diria que o D-Reaper
+apareceria no Mundo Real?
+
+256
+00:22:39,370 --> 00:22:42,320
+Takato, Guilmon luta e evolui!
+
+257
+00:22:42,320 --> 00:22:44,630
+Entendi.
+Vamos proteger a cidade!
+
+258
+00:22:44,630 --> 00:22:46,880
+Espera aí!
+Tá querendo nos deixar pra trás?
+
+259
+00:22:46,880 --> 00:22:47,340
+Ruki!
+
+260
+00:22:47,340 --> 00:22:49,440
+Isso mesmo!
+Não se esqueça da gente!
+
+261
+00:22:49,440 --> 00:22:50,040
+Jen!
+
+262
+00:22:50,040 --> 00:22:52,910
+É... Nós somos Tamers!
+
+263
+00:22:52,910 --> 00:22:54,970
+No próximo episódio de Digimon Tamers:
+
+264
+00:22:54,970 --> 00:22:58,570
+"D-Reaper Ataca a Cidade - A Decisão dos Tamers"!
+
+265
+00:22:58,570 --> 00:23:00,910
+Desperte o Tamer em você!

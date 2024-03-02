@@ -1,0 +1,1272 @@
+﻿1
+00:01:31,940 --> 00:01:34,650
+Takato, um jovem estudante apaixonado por Digimon,
+
+2
+00:01:34,650 --> 00:01:36,920
+se envolveu em uma situação misteriosa.
+
+3
+00:01:36,920 --> 00:01:42,990
+E com isso, conseguiu fazer nascer no Mundo Real um Digimon que ele mesmo criou, o Guilmon.
+
+4
+00:01:50,790 --> 00:01:51,860
+Guilmon...
+
+5
+00:01:53,010 --> 00:01:56,020
+Eu criei você!
+
+6
+00:02:28,290 --> 00:02:31,000
+Eu não sou um Digimon!
+
+7
+00:02:55,000 --> 00:02:56,950
+Você me reconheceu, não é?
+
+8
+00:02:56,950 --> 00:02:58,530
+Não é mesmo?
+
+9
+00:02:58,530 --> 00:03:01,870
+Afinal, fui eu que te criei.
+
+10
+00:03:01,870 --> 00:03:03,450
+Não é, Guilmon?
+
+11
+00:03:10,540 --> 00:03:12,590
+Cheguei!
+
+12
+00:03:13,150 --> 00:03:15,700
+Que bom que chegou! Demorou, hein?
+
+13
+00:03:15,700 --> 00:03:17,350
+Daqui a pouco vamos jantar.
+
+14
+00:03:15,850 --> 00:03:17,350
+E agora, as notícias da noite.
+
+15
+00:03:17,350 --> 00:03:22,180
+Mais uma vez, foram relatados mau funcionamento nos sistemas de redes de computadores.
+
+16
+00:03:17,470 --> 00:03:18,570
+Tá!
+
+17
+00:03:22,180 --> 00:03:26,430
+Sua frequência anormal causou prejuízos em alguns setores, mas sem causar danos graves, felizmente.
+
+18
+00:03:24,270 --> 00:03:25,320
+Takato?
+
+19
+00:03:25,320 --> 00:03:26,470
+S-Sim?
+
+20
+00:03:26,430 --> 00:03:30,600
+E a parte do governo responsável pela segurança na rede afirmou que irá procurar por métodos mais eficazes de proteção.
+
+21
+00:03:26,470 --> 00:03:27,560
+O que é isso?
+
+22
+00:03:27,560 --> 00:03:28,990
+Ah, isso?
+
+23
+00:03:28,990 --> 00:03:31,420
+É, sabe o que é...
+
+24
+00:03:32,990 --> 00:03:36,000
+Não traga lixo pra casa de novo, hein?
+
+25
+00:03:36,000 --> 00:03:38,490
+Você sabe que tem que jogar fora.
+
+26
+00:03:38,490 --> 00:03:40,410
+É, é, eu sei!
+
+27
+00:03:44,310 --> 00:03:46,170
+Guilmon, vamos subir.
+
+28
+00:03:49,620 --> 00:03:51,040
+Isso tá pesado...
+
+29
+00:03:51,950 --> 00:03:53,930
+Subirmon!
+
+30
+00:04:02,480 --> 00:04:04,430
+Não faça isso, Guilmon!
+
+31
+00:04:04,470 --> 00:04:05,750
+NãoFaçamon?
+
+32
+00:04:05,750 --> 00:04:07,150
+Preste atenção, Guilmon.
+
+33
+00:04:07,770 --> 00:04:11,940
+Todo mundo vai tomar um susto se
+ver um Digimon grande como você.
+
+34
+00:04:11,940 --> 00:04:15,900
+Já que tivemos a chance de nos encontrar,
+quero ficar com você para sempre!
+
+35
+00:04:15,900 --> 00:04:18,870
+É por isso que você tem de
+ser bonzinho e ficar quieto.
+
+36
+00:04:19,500 --> 00:04:21,210
+Você entende, Guilmon?
+
+37
+00:04:21,780 --> 00:04:23,600
+Guil... mon?
+
+38
+00:04:24,230 --> 00:04:25,820
+Isso mesmo! E eu sou Takato!
+
+39
+00:04:27,190 --> 00:04:29,690
+Ta...
+
+40
+00:04:28,020 --> 00:04:29,690
+ka...
+
+41
+00:04:28,720 --> 00:04:29,690
+to...
+
+42
+00:04:29,190 --> 00:04:29,690
+mon?
+
+43
+00:04:31,430 --> 00:04:34,610
+Não é Takatomon, é Ta-ka-to.
+
+44
+00:04:34,610 --> 00:04:36,400
+Takatomon!
+
+45
+00:04:37,960 --> 00:04:39,730
+Eu não sou um Digimon!
+
+46
+00:04:39,730 --> 00:04:42,500
+Eu sou, err... Eu sou...
+
+47
+00:04:42,500 --> 00:04:45,640
+Ah, é! Eu sou seu parceiro!
+
+48
+00:04:47,140 --> 00:04:48,380
+Takatomon?
+
+49
+00:04:48,380 --> 00:04:50,820
+Já disse que é Takato!
+
+50
+00:04:53,150 --> 00:04:55,770
+Eu sou seu Digimon Tamer!
+
+51
+00:05:06,660 --> 00:05:08,790
+Um Wild One foi detectado.
+
+52
+00:05:10,010 --> 00:05:12,950
+Está englobando os dados
+ao redor para ficar maior.
+
+53
+00:05:13,740 --> 00:05:15,210
+Lancem o rastreador.
+
+54
+00:05:22,390 --> 00:05:24,520
+Alternando para a visão virtual do rastreador.
+
+55
+00:05:27,880 --> 00:05:30,760
+Ele também está tentando se materializar?
+
+56
+00:05:51,760 --> 00:05:52,700
+O que foi?
+
+57
+00:05:52,700 --> 00:05:54,330
+Ah, é que...
+
+58
+00:05:54,330 --> 00:05:55,550
+O que foi?
+
+59
+00:05:56,300 --> 00:05:58,960
+Ah, é que... O Takato é filho único...
+
+60
+00:05:59,610 --> 00:06:02,060
+E se por acaso, ele...
+
+61
+00:06:02,060 --> 00:06:03,880
+Sabe, err...
+
+62
+00:06:03,880 --> 00:06:04,940
+Não.
+
+63
+00:06:05,720 --> 00:06:07,350
+Mas eu ainda não disse nada!
+
+64
+00:06:07,350 --> 00:06:09,340
+Não vai dar certo.
+
+65
+00:06:11,110 --> 00:06:12,350
+Por quê?
+
+66
+00:06:12,350 --> 00:06:14,960
+Pense no nosso ganha-pão.
+
+67
+00:06:14,960 --> 00:06:17,350
+E eu também não posso cuidar dele.
+
+68
+00:06:18,980 --> 00:06:24,030
+Trate de dizer a ele amanhã que não podemos ter animais em casa.
+
+69
+00:06:35,060 --> 00:06:36,450
+Ei, o que é aquilo?
+
+70
+00:06:37,650 --> 00:06:40,870
+Sei lá... Será que alguém fez uma fogueira?
+
+71
+00:06:48,800 --> 00:06:49,590
+Renamon.
+
+72
+00:06:53,420 --> 00:07:03,610
+Goblimon
+
+73
+00:06:54,150 --> 00:06:55,870
+Goblimon, Nível Adolescente.
+
+74
+00:06:55,870 --> 00:06:57,510
+Um tipo Ogro de atributo Vírus.
+
+75
+00:06:57,510 --> 00:07:00,000
+Não é corajoso, porém muito astuto.
+
+76
+00:07:00,000 --> 00:07:03,610
+Seu golpe especial é o Gobli Strike, bolas de fogo que ele atira no inimigo.
+
+77
+00:07:04,520 --> 00:07:05,820
+Dados!
+
+78
+00:07:28,040 --> 00:07:31,230
+O que vocês estão fazendo, culu?
+
+79
+00:07:32,510 --> 00:07:34,250
+O que é isso?
+
+80
+00:07:35,700 --> 00:07:38,440
+De onde veio esse brinquedo? É tão fofinho!
+
+81
+00:07:39,110 --> 00:07:40,020
+Ei, ei!
+
+82
+00:07:40,020 --> 00:07:43,010
+O que vocês estavam fazendo agora, culu?
+
+83
+00:07:43,010 --> 00:07:45,420
+Culumon quer saber o que não sabe!
+
+84
+00:07:45,400 --> 00:07:47,810
+Você estava nos assistindo esse tempo todo?!
+
+85
+00:07:47,810 --> 00:07:51,530
+Espera aí, isso não é um brinquedo!
+
+86
+00:07:52,910 --> 00:07:56,340
+Já vão embora? Cululu...
+
+87
+00:08:03,540 --> 00:08:05,250
+Dados!
+
+88
+00:08:18,110 --> 00:08:19,470
+Ruki, Carta Opção!
+
+89
+00:08:20,120 --> 00:08:20,930
+Eu sei.
+
+90
+00:08:24,930 --> 00:08:26,190
+Boost Chip!
+
+91
+00:08:26,190 --> 00:08:27,980
+Aumento de Força em 10%!
+
+92
+00:08:37,200 --> 00:08:43,000
+Ichimai no CARD hanatsu hikari ga oh
+
+93
+00:08:37,200 --> 00:08:43,000
+A luz que uma carta emite, oh
+
+94
+00:08:40,240 --> 00:08:43,000
+evolução
+
+95
+00:08:40,240 --> 00:08:43,000
+Goblimon, shinka!
+
+96
+00:08:43,000 --> 00:08:44,920
+Fugamon!
+
+97
+00:08:43,530 --> 00:08:49,000
+Kono monogatari no hajimari tsugeteru oh
+
+98
+00:08:43,530 --> 00:08:49,000
+É um presságio do início desta história, oh
+
+99
+00:08:46,580 --> 00:08:49,230
+Ele evoluiu! Como?
+
+100
+00:08:49,230 --> 00:08:50,920
+Ele não deveria conseguir.
+
+101
+00:08:49,800 --> 00:08:55,600
+Kimi tachi wa sude ni shujinkou nan da ALRIGHT?
+
+102
+00:08:49,800 --> 00:08:55,600
+Em que vocês já são os protagonistas, tudo bem?
+
+103
+00:08:55,600 --> 00:08:57,430
+GETUP'N FIGHT!
+
+104
+00:08:55,600 --> 00:08:57,430
+Levantem-se e lutem!
+
+105
+00:08:57,430 --> 00:09:00,650
+ARC wo kazasou
+
+106
+00:08:57,430 --> 00:09:00,650
+Tenham o Arc em suas mãos!
+
+107
+00:08:59,420 --> 00:09:01,460
+O que foi, Guilmon?
+
+108
+00:09:02,430 --> 00:09:05,830
+Yuuki wo REALIZE shiro
+
+109
+00:09:02,430 --> 00:09:05,830
+Materialize sua coragem
+
+110
+00:09:03,770 --> 00:09:06,700
+Não é nada, viu só?
+
+111
+00:09:05,830 --> 00:09:08,720
+Geeji wo fukkiru kurai ni
+
+112
+00:09:05,830 --> 00:09:08,770
+O suficiente para ultrapassar os limites
+
+113
+00:09:08,770 --> 00:09:15,500
+EVOLUTION suru kimi ga TAMER
+
+114
+00:09:08,770 --> 00:09:15,500
+Você é um Tamer, aquele que o faz evoluir
+
+115
+00:09:08,900 --> 00:09:11,870
+Dados!
+
+116
+00:09:12,330 --> 00:09:13,630
+Renamon.
+
+117
+00:09:13,630 --> 00:09:16,140
+Perder está fora de questão.
+
+118
+00:09:16,140 --> 00:09:17,140
+Eu sei.
+
+119
+00:09:17,140 --> 00:09:18,860
+Observe.
+
+120
+00:09:18,430 --> 00:09:20,130
+SLASH THE LIFE!
+
+121
+00:09:18,430 --> 00:09:20,130
+Slash, com vontade!
+
+122
+00:09:18,860 --> 00:09:20,620
+Dados!
+
+123
+00:09:20,130 --> 00:09:21,830
+POWER wo ageyou
+
+124
+00:09:20,130 --> 00:09:21,830
+Mande força para ele!
+
+125
+00:09:21,830 --> 00:09:23,330
+CARD SLASH!
+
+126
+00:09:21,830 --> 00:09:23,330
+Card Slash!
+
+127
+00:09:23,330 --> 00:09:24,980
+Yuujou no tame ni
+
+128
+00:09:23,330 --> 00:09:24,980
+Pelo bem da amizade
+
+129
+00:09:24,980 --> 00:09:26,580
+SLASH THE LIFE!
+
+130
+00:09:24,980 --> 00:09:26,580
+Slash, com vontade!
+
+131
+00:09:26,580 --> 00:09:32,510
+Kimi tachi wa nareru sa muteki no PARTNER
+
+132
+00:09:26,580 --> 00:09:32,510
+Vocês se tornarão parceiros invencíveis!
+
+133
+00:09:35,820 --> 00:09:37,420
+Koyousetsu!
+
+134
+00:09:44,840 --> 00:09:47,340
+Não adianta evoluir para o Nível Adulto.
+
+135
+00:09:47,340 --> 00:09:50,110
+Nossos parâmetros são mais altos.
+
+136
+00:09:50,110 --> 00:09:51,560
+Não temos como perder!
+
+137
+00:09:57,500 --> 00:10:00,200
+Você precisa ficar mais forte, Renamon.
+
+138
+00:10:30,500 --> 00:10:31,540
+Takato!
+
+139
+00:10:32,970 --> 00:10:36,910
+Lembra da vez que você achou um gato e trouxe para casa?
+
+140
+00:10:40,030 --> 00:10:41,700
+Eu não "achei".
+
+141
+00:10:41,700 --> 00:10:44,040
+Foi uma senhora no parque que me deu!
+
+142
+00:10:45,390 --> 00:10:49,900
+Você sabe que nós vivemos de vender comida.
+
+143
+00:10:49,900 --> 00:10:51,580
+Não podemos ter animais em casa.
+
+144
+00:10:52,550 --> 00:10:56,370
+Não sei o que você trouxe dessa vez, mas você vai ter que se livrar dele.
+
+145
+00:10:57,750 --> 00:10:59,320
+Não sei do que você está falando...
+
+146
+00:10:59,320 --> 00:11:00,550
+Estou indo, tchau!
+
+147
+00:11:02,880 --> 00:11:04,590
+Guilmon, pode vir!
+
+148
+00:11:05,260 --> 00:11:06,740
+Takato!
+
+149
+00:11:09,040 --> 00:11:10,850
+Poxa, Guilmon...
+
+150
+00:11:17,170 --> 00:11:19,090
+Pronto, terminei!
+
+151
+00:11:19,090 --> 00:11:22,250
+É um pouco apertado, mas tenha paciência, tá, Guilmon?
+
+152
+00:11:22,250 --> 00:11:25,460
+Eu tenho que ficar na escola até à tarde.
+
+153
+00:11:25,980 --> 00:11:27,100
+Escola?
+
+154
+00:11:27,100 --> 00:11:30,430
+Então eu não posso ficar o
+tempo todo com você.
+
+155
+00:11:30,430 --> 00:11:36,710
+Fique aqui quietinho até eu voltar, tá?
+
+156
+00:11:36,710 --> 00:11:38,180
+Quando eu voltar, a gente brinca.
+
+157
+00:11:38,920 --> 00:11:40,680
+Brincar!
+
+158
+00:11:40,680 --> 00:11:42,730
+Quando estiver com fome, pode comer isto.
+
+159
+00:11:47,330 --> 00:11:48,810
+Ah, entendi.
+
+160
+00:11:48,810 --> 00:11:50,360
+Isto é comida.
+
+161
+00:11:55,320 --> 00:11:56,340
+Entendeu?
+
+162
+00:11:57,130 --> 00:11:58,250
+Comer!
+
+163
+00:11:59,030 --> 00:12:02,860
+Fique escondido aqui até que eu volte.
+
+164
+00:12:04,120 --> 00:12:05,560
+Então, tchau!
+
+165
+00:12:09,090 --> 00:12:10,830
+Comi!
+
+166
+00:12:18,380 --> 00:12:20,420
+Takato...
+
+167
+00:12:20,420 --> 00:12:21,910
+Greymon evolui!
+
+168
+00:12:21,910 --> 00:12:23,380
+MetalGreymon!
+
+169
+00:12:24,340 --> 00:12:27,760
+Pois eu vou de Evolução Jogress. WereGarurumon!
+
+170
+00:12:27,750 --> 00:12:29,080
+Uso Plug-in de Alta Velocidade B para-
+
+171
+00:12:29,080 --> 00:12:32,390
+Que peninha! Programa Parada de Emergência!
+
+172
+00:12:32,390 --> 00:12:34,200
+Ah, cara!
+
+173
+00:12:34,200 --> 00:12:36,710
+Você praticamente me deu a vitória!
+
+174
+00:12:36,710 --> 00:12:37,650
+Ei!
+
+175
+00:12:37,650 --> 00:12:39,240
+Ah, é o Takato!
+
+176
+00:12:39,240 --> 00:12:40,690
+Que demora!
+
+177
+00:12:40,690 --> 00:12:41,860
+Desculpa!
+
+178
+00:12:41,860 --> 00:12:43,780
+É que aconteceram tantas coisas...
+
+179
+00:12:44,410 --> 00:12:47,220
+E esses óculos de aviador?
+
+180
+00:12:47,790 --> 00:12:49,130
+Legal, né?
+
+181
+00:12:49,130 --> 00:12:51,620
+Eu vou ser um Digimon Tamer mesmo...
+
+182
+00:12:52,410 --> 00:12:54,180
+Você é quem sabe.
+
+183
+00:12:54,180 --> 00:12:56,770
+Vamos logo. A primeira aula é de Educação Física.
+
+184
+00:12:57,590 --> 00:12:59,840
+Odeio correr pela manhã...
+
+185
+00:13:00,560 --> 00:13:02,480
+Deixa só eu trancar isso aqui que eu vou.
+
+186
+00:13:02,480 --> 00:13:03,380
+Tá!
+
+187
+00:13:14,370 --> 00:13:17,660
+Eu sabia, aquela carta azul sumiu.
+
+188
+00:13:17,660 --> 00:13:18,880
+Takato!
+
+189
+00:13:20,000 --> 00:13:21,340
+O que você tá fazendo?!
+
+190
+00:13:21,340 --> 00:13:22,540
+Vamos nos atrasar!
+
+191
+00:13:22,540 --> 00:13:24,220
+Certo, já vou!
+
+192
+00:13:27,690 --> 00:13:29,970
+O que você está esperando, Takato?!
+
+193
+00:13:37,460 --> 00:13:38,600
+Certo, o próximo.
+
+194
+00:13:46,340 --> 00:13:47,770
+3,46 metros.
+
+195
+00:13:47,770 --> 00:13:50,110
+Eba! Bati meu récorde em 5 centímetros!
+
+196
+00:13:50,110 --> 00:13:52,500
+Mas eu ainda estou 3 centímetros na frente.
+
+197
+00:13:52,500 --> 00:13:54,590
+Mas, Hirokazu, é que você-
+
+198
+00:13:55,720 --> 00:13:58,560
+Então, que venha o próximo.
+
+199
+00:13:59,260 --> 00:14:00,560
+Não, acho que não...
+
+200
+00:14:03,850 --> 00:14:04,620
+Takato?
+
+201
+00:14:04,620 --> 00:14:05,750
+Ei, Yamazaki!
+
+202
+00:14:06,530 --> 00:14:08,740
+Seu idiota!
+
+203
+00:14:08,740 --> 00:14:12,190
+Ontem eu te disse pra não
+esquecer o dever de casa!
+
+204
+00:14:34,650 --> 00:14:36,730
+O que foi, professor?
+
+205
+00:14:38,170 --> 00:14:41,220
+Deixa pra lá. Agora é hora da aula.
+
+206
+00:14:41,220 --> 00:14:44,440
+Isso, não devemos nos incomodar com coisas desnecessárias. Isso mesmo.
+
+207
+00:14:47,210 --> 00:14:48,520
+Ah, bom dia.
+
+208
+00:14:55,020 --> 00:14:57,160
+Ah, você! Você aí!
+
+209
+00:14:58,320 --> 00:15:00,300
+Qual é a sua turma?
+
+210
+00:15:00,300 --> 00:15:01,680
+Turma?
+
+211
+00:15:01,680 --> 00:15:03,150
+Qual é o seu nome?
+
+212
+00:15:03,150 --> 00:15:04,850
+Guilmon!
+
+213
+00:15:04,850 --> 00:15:06,340
+E o seu?
+
+214
+00:15:06,340 --> 00:15:08,200
+Eu sou Kurosawa Seiji.
+
+215
+00:15:08,200 --> 00:15:09,860
+Espera aí, eu sou o diretor.
+
+216
+00:15:09,860 --> 00:15:12,190
+Quero que me chame de "Sr. Diretor".
+
+217
+00:15:12,190 --> 00:15:14,040
+O que está fazendo aqui?
+
+218
+00:15:14,040 --> 00:15:15,500
+Vou brincar com o Takato.
+
+219
+00:15:15,500 --> 00:15:18,200
+Brincar? Mas estamos em horário de aula!
+
+220
+00:15:18,200 --> 00:15:21,200
+E saia de dentro dessa caixa de papelão!
+
+221
+00:15:21,200 --> 00:15:22,000
+Não.
+
+222
+00:15:22,000 --> 00:15:23,400
+Saia!
+
+223
+00:15:23,400 --> 00:15:24,500
+Não.
+
+224
+00:15:24,500 --> 00:15:25,330
+Por quê?!
+
+225
+00:15:25,950 --> 00:15:28,280
+O Takato disse que não.
+
+226
+00:15:28,760 --> 00:15:29,800
+Takato?!
+
+227
+00:15:29,800 --> 00:15:36,160
+Não sei quem é esse, mas dentro da escola quem manda é o diretor!
+
+228
+00:15:36,160 --> 00:15:37,290
+Entendeu?!
+
+229
+00:15:40,570 --> 00:15:41,250
+Entendi.
+
+230
+00:15:45,150 --> 00:15:47,550
+Então vamos brincar, Sr. Diretor!
+
+231
+00:15:50,920 --> 00:15:52,450
+Não quer brincar?
+
+232
+00:15:53,980 --> 00:15:55,430
+S-S-S-Socorro!
+
+233
+00:16:00,930 --> 00:16:02,340
+Takato?
+
+234
+00:16:05,250 --> 00:16:06,410
+O que foi isso?
+
+235
+00:16:06,410 --> 00:16:07,060
+Incêndio?
+
+236
+00:16:07,060 --> 00:16:08,170
+Não, né?
+
+237
+00:16:08,170 --> 00:16:10,460
+Pessoal, façam uma fila e esperem aqui!
+
+238
+00:16:10,460 --> 00:16:12,580
+A professora vai ver o que houve.
+
+239
+00:16:15,650 --> 00:16:17,200
+O que foi, Takato-kun?
+
+240
+00:16:17,200 --> 00:16:19,090
+Eu... Eu... Vou ali!
+
+241
+00:16:22,040 --> 00:16:23,040
+O que foi?
+
+242
+00:16:23,790 --> 00:16:27,250
+Estou dizendo que eu vi!
+
+243
+00:16:28,100 --> 00:16:31,720
+E até falava!
+
+244
+00:16:31,720 --> 00:16:32,860
+Mesmo assim...
+
+245
+00:16:32,860 --> 00:16:38,790
+...disparar o alarme de incêndio sem ter um incêndio é coisa de criança, não-
+
+246
+00:16:32,910 --> 00:16:36,490
+Será que o Sr. Diretor bebeu e veio pra escola?
+
+247
+00:16:36,490 --> 00:16:40,530
+Nem vai dar pra assustar pessoas com essa história, né? Que pena.
+
+248
+00:16:38,790 --> 00:16:42,790
+Eu não ligo para o que aconteceu, mas bem que eles podiam nos dar um intervalo agora.
+
+249
+00:16:42,790 --> 00:16:45,070
+Ei, não saia!
+
+250
+00:16:45,070 --> 00:16:46,230
+Moumantai...
+
+251
+00:16:47,020 --> 00:16:47,950
+Guilmon!
+
+252
+00:16:48,350 --> 00:16:50,140
+Ele disse que era um monstro!
+
+253
+00:16:51,520 --> 00:16:54,870
+Não tem como algo assim
+aparecer no corredor da escola.
+
+254
+00:16:56,530 --> 00:16:58,810
+Disparar o alarme só porque viu um monstro...
+
+255
+00:16:58,810 --> 00:17:00,260
+Eu dispararia se fosse real!
+
+256
+00:17:01,450 --> 00:17:03,250
+Monstro?
+
+257
+00:17:08,910 --> 00:17:10,380
+Guilmon!
+
+258
+00:17:13,670 --> 00:17:14,590
+Guilmon!
+
+259
+00:17:15,240 --> 00:17:16,630
+Guilmon!
+
+260
+00:17:19,810 --> 00:17:21,210
+Como foi isso?
+
+261
+00:17:24,580 --> 00:17:27,540
+Todos os pães sumiram!
+
+262
+00:17:27,540 --> 00:17:29,520
+Será que alguém levou?
+
+263
+00:17:29,520 --> 00:17:32,820
+Mas como roubaram todos os pães da escola?
+
+264
+00:17:32,820 --> 00:17:35,250
+Seja como for, vamos dar um jeito
+nisso e começar a fazer novos pães.
+
+265
+00:17:35,250 --> 00:17:37,490
+Temos que fazer a tempo para o almoço!
+
+266
+00:17:38,350 --> 00:17:39,560
+Era o Guilmon!
+
+267
+00:17:39,560 --> 00:17:41,060
+O que eu faço?
+
+268
+00:17:41,060 --> 00:17:42,770
+Meu Guilmon...
+
+269
+00:17:46,610 --> 00:17:47,790
+Guilmon...
+
+270
+00:17:49,390 --> 00:17:51,000
+Por que você veio para a escola?
+
+271
+00:17:52,310 --> 00:17:54,630
+Você disse "Guilmon", não foi?
+
+272
+00:17:56,500 --> 00:18:00,390
+É um Digimon, não é?
+
+273
+00:18:02,710 --> 00:18:04,880
+Como você sabe?
+
+274
+00:18:04,880 --> 00:18:06,770
+Ele é um Tamer?
+
+275
+00:18:09,110 --> 00:18:10,900
+Terriermon!
+
+276
+00:18:11,790 --> 00:18:15,200
+É o Terriermon! E ele fala!
+
+277
+00:18:16,520 --> 00:18:20,150
+Se você e seu parceiro Digimon não têm um bom relacionamento,
+
+278
+00:18:20,150 --> 00:18:22,330
+então você não tem o direito de ser chamado de Digimon Tamer!
+
+279
+00:18:24,460 --> 00:18:25,820
+Terriermon!
+
+280
+00:18:26,430 --> 00:18:28,790
+Moumantai!
+
+281
+00:18:35,590 --> 00:18:36,560
+Eu...
+
+282
+00:18:38,360 --> 00:18:39,720
+Eu...
+
+283
+00:19:28,130 --> 00:19:29,220
+Guilmon...
+
+284
+00:19:33,930 --> 00:19:35,740
+Takato!
+
+285
+00:19:37,140 --> 00:19:38,350
+Guilmon!
+
+286
+00:19:38,900 --> 00:19:41,110
+Takato!
+
+287
+00:19:44,050 --> 00:19:45,200
+Guilmon!
+
+288
+00:19:51,630 --> 00:19:52,720
+Guilmon...
+
+289
+00:19:53,590 --> 00:19:55,460
+O que foi, Takato?
+
+290
+00:19:57,850 --> 00:20:00,670
+O rosto do Takato tá molhado.
+
+291
+00:20:01,360 --> 00:20:03,300
+Ah, cale a boca.
+
+292
+00:20:03,300 --> 00:20:05,730
+Não tenho escolha.
+
+293
+00:20:05,730 --> 00:20:09,810
+Fique escondido aqui até eu disser que saia.
+
+294
+00:20:09,810 --> 00:20:12,520
+Venho te buscar quando acabar a aula.
+
+295
+00:20:12,520 --> 00:20:14,580
+E aí a gente brinca?
+
+296
+00:20:16,260 --> 00:20:17,090
+Claro!
+
+297
+00:20:24,590 --> 00:20:27,100
+Será que não tem um lugar bom por aqui?
+
+298
+00:20:27,100 --> 00:20:29,120
+O que foi, Takato?
+
+299
+00:20:30,330 --> 00:20:33,860
+Um lugar que você possa ficar sozinho e não ser encontrado, Guilmon.
+
+300
+00:20:34,580 --> 00:20:36,920
+Não passa muita gente por aqui...
+
+301
+00:20:50,810 --> 00:20:51,720
+Guilmon!
+
+302
+00:20:52,390 --> 00:20:54,020
+Saia da frente, Tamer.
+
+303
+00:20:55,140 --> 00:20:56,690
+Esta é uma batalha de Digimons.
+
+304
+00:20:58,050 --> 00:20:59,930
+Onde eu já te vi antes?
+
+305
+00:21:01,430 --> 00:21:03,390
+A Renamon quer lutar.
+
+306
+00:22:37,350 --> 00:22:40,460
+Que cruel! Pra que atacar o Guilmon assim?
+
+307
+00:22:40,460 --> 00:22:44,060
+Os Digimons são feitos para lutar, certo? Vamos logo acabar com isso.
+
+308
+00:22:44,060 --> 00:22:46,920
+Não faça isso, Guilmon. Me obedeça!
+
+309
+00:22:46,920 --> 00:22:49,090
+Renamon, não ligue pra isso. Ataque!
+
+310
+00:22:49,090 --> 00:22:50,410
+Fuja, Guilmon!
+
+311
+00:22:50,410 --> 00:22:52,870
+Perder é inaceitável, mesmo que só uma vez!
+
+312
+00:22:52,870 --> 00:22:54,760
+No próximo episódio de Digimon Tamers:
+
+313
+00:22:54,760 --> 00:22:58,890
+"Renamon VS Guilmon!
+Lutar é a Razão de Vida dos Digimons"
+
+314
+00:22:58,890 --> 00:23:01,210
+Desperte o Tamer em você!
+
+315
+00:23:02,110 --> 00:23:05,020
+Renamon VS Guilmon!
+
+316
+00:23:02,110 --> 00:23:05,020
+Lutar é a Razão de Vida dos Digimons
