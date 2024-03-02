@@ -1,5 +1,5 @@
 msubtitles:
-  - source: https://github.com/Ribas5/Legendas-Anime-PT-BR/master/dragon.ball/1986/
+  - source: https://github.com/Ribas5/Legendas-Anime-PT-BR/master/DigimonTamers
     subtitles:
       - season: 1
         items:
